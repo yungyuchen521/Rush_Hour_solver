@@ -1,1 +1,1 @@
-# AI_final_project
+# Rush Hour solver
